@@ -3,7 +3,7 @@
 ## DESCRIPTION
 
 > Ma première animation. Fais avec les outils suivants :
->```bash
+```bash
 
 HTML5
 CSS
@@ -21,6 +21,7 @@ HTML5
 CSS
 Bootstrap
 Jquery
+Editeur de texte : VSCode
 
 ```
 
