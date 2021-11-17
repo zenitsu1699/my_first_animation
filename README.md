@@ -3,7 +3,7 @@
 ## DESCRIPTION
 
 > Ma première animation. Fais avec les outils suivants :
->    _ HTML5
+>     HTML5
 >    _ CSS
 >    _ Bootstrap
 >    _ Jquery
