@@ -3,14 +3,10 @@
 ## DESCRIPTION
 
 > Ma première animation. Fais avec les outils suivants :
-```bash
-
-HTML5
-CSS
-Bootstrap
-Jquery
-
-```
+>    _ HTML5
+>    _ CSS
+>    _ Bootstrap
+>    _ Jquery
 
 
 ## PREREQUIE & SUPPORT
